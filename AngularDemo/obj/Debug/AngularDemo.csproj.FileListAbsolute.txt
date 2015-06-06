@@ -1,0 +1,6 @@
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.dll
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+C:\Users\DoDuy\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
